@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FetchRewardsCE_API30" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/my_light_secondary_variant</item>
+        <item name="colorSecondary">@color/my_light_primary</item>
+        <item name="background">@color/my_light_secondary_variant</item>
+        <item name="titleTextColor">@color/my_light_background</item>
+        <item name="android:windowBackground">@color/my_light_secondary</item>
+    </style>
+</resources>

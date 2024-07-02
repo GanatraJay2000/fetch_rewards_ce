@@ -2,7 +2,8 @@
 
 ## Overview
 
-This project is a native Android application written in Kotlin that retrieves data from [Fetch Rewards](https://fetch-hiring.s3.amazonaws.com/hiring.json) and displays it in a list.
+This project is a responsive Android application written in Kotlin that retrieves data from [Fetch Rewards](https://fetch-hiring.s3.amazonaws.com/hiring.json) and displays it in a list.
+Features a dark mode.
 
 ## Setup and Build
 
